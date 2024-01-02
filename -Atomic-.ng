@@ -1,0 +1,3 @@
+Dalam Bahasa Pertanyaan Terstruktur, fungsi atomik adalah yang akan selesai atau kembali ke keadaan aslinya jika terjadi gangguan daya atau akhir yang tidak normal.
+Pada beberapa sistem operasi berbasis Unix, operasi atomik adalah yang tidak mengalami perubahan antara pengaturan masker dan penerimaan sinyal untuk mengubah masker.
+Dalam beberapa bahasa pemrograman, termasuk Lisp, atom adalah unit dasar dari kode atau data yang dapat dieksekusi.

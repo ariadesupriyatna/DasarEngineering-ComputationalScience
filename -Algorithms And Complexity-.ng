@@ -1,0 +1,5 @@
+Algoritma dan Kompleksitas berkaitan dengan seberapa cepat atau lambat kinerja suatu algoritma tertentu.
+Kami mendefinisikan kompleksitas sebagai fungsi numerik T(n) - waktu versus ukuran input n.
+Kami ingin mendefinisikan waktu yang dibutuhkan oleh suatu algoritma tanpa bergantung pada detail implementasinya.
+Namun, Anda setuju bahwa T(n) memang bergantung pada implementasi! Suatu algoritma tertentu akan membutuhkan waktu yang berbeda pada input yang sama tergantung pada faktor-faktor seperti kecepatan prosesor, set instruksi, kecepatan disk, merek kompiler, dan sebagainya.
+Cara mengatasinya adalah dengan mengestimasi efisiensi masing-masing algoritma secara asimtotik. Kami akan mengukur waktu T(n) sebagai jumlah "langkah" dasar (didefinisikan dengan cara apa pun), dengan asumsi setiap langkah tersebut memerlukan waktu konstan.

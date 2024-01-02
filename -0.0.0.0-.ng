@@ -1,0 +1,6 @@
+Alamat IP berkisar dari 0.0.0.0 hingga 255.255.255.255.
+Alamat IP 0.0.0.0 memiliki arti khusus dalam jaringan komputer.
+Biasanya, komputer menunjukkan alamat 0.0.0.0 ketika tidak terhubung ke jaringan TCP/IP.
+Dengan menggunakan alamat ini, komputer tidak dapat dijangkau atau berkomunikasi dengan perangkat lain melalui IP.
+Aplikasi perangkat lunak TCP/IP juga menggunakan 0.0.0.0 sebagai teknik pemrograman untuk memantau lalu lintas jaringan dari alamat IP yang valid.
+Meskipun komputer yang terhubung tidak menggunakan alamat ini, pesan yang dikirim melalui IP kadang-kadang mencakup 0.0.0.0 dalam header ketika sumber pesan tidak diketahui.

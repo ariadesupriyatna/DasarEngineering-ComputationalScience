@@ -1,0 +1,3 @@
+Dalam pemrosesan komputer, carry flag (biasanya ditunjukkan sebagai flag C) adalah satu bit dalam register status sistem (flag) yang digunakan untuk menunjukkan kapan carry atau borrow aritmetika telah dihasilkan dari posisi bit ALU yang paling signifikan.
+Carry flag memungkinkan penambahan/pengurangan angka yang lebih besar dari lebar ALU tunggal dengan membawa (menambahkan) digit biner dari penambahan/pengurangan parsial ke posisi bit paling tidak signifikan dari kata yang lebih signifikan.
+Ini juga digunakan untuk memperluas pergeseran bit dan rotasi dengan cara serupa pada banyak prosesor.

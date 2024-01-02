@@ -1,0 +1,4 @@
+Kopling adalah tindakan menggabungkan dua hal. Dalam pengembangan perangkat lunak, kopling mengacu pada sejauh mana komponen perangkat lunak saling bergantung.
+Misalnya, dalam arsitektur yang terkait erat, setiap komponen dan komponen terkaitnya harus ada agar kode dapat dieksekusi atau dikompilasi.
+Dalam arsitektur yang terkait longgar, komponen dapat tetap otonom dan memungkinkan perangkat lunak middleware mengelola komunikasi di antara mereka.
+Dalam arsitektur terlepas, komponen dapat beroperasi sepenuhnya terpisah dan independen.

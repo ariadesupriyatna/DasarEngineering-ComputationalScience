@@ -1,0 +1,4 @@
+Objek aktor perlu dilindungi dari luar agar mendapatkan manfaat dari model aktor.
+Oleh karena itu, aktor direpresentasikan ke luar menggunakan referensi aktor, yaitu objek yang dapat berpindah bebas dan tanpa batasan.
+Pembagian ini menjadi objek dalam dan luar memungkinkan transparansi untuk semua operasi yang diinginkan: memulai ulang aktor tanpa perlu memperbarui referensi di tempat lain, menempatkan objek aktor sebenarnya di host jarak jauh, mengirim pesan ke aktor dalam aplikasi yang benar-benar berbeda.
+Namun, aspek yang paling penting adalah bahwa tidak mungkin untuk melihat ke dalam seorang aktor dan mendapatkan informasi tentang statusnya dari luar, kecuali jika aktor dengan tidak bijaksana mempublikasikan informasi ini sendiri.

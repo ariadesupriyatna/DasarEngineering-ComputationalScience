@@ -1,0 +1,3 @@
+Baud rate dari sistem komunikasi data adalah jumlah simbol yang ditransfer per detik.
+Sebuah simbol mungkin memiliki lebih dari dua keadaan, sehingga dapat mewakili lebih dari satu bit biner (sebuah bit biner selalu mewakili tepat dua keadaan).
+Oleh karena itu, baud rate mungkin tidak sama dengan bit rate, terutama dalam kasus modem terbaru yang dapat memiliki (misalnya) hingga sembilan bit per simbol.

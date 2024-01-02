@@ -1,0 +1,3 @@
+Program Common Gateway Interface (CGI) adalah standar yang menentukan bagaimana informasi pertukaran antara server web dan program eksternal (program CGI).
+Fungsi dan tugas yang dapat dilakukan oleh program CGI berkisar dari yang sederhana hingga sangat canggih, dan terdiri dari dua jenis berbeda, yaitu skrip CGI dan program gateway.
+Skrip CGI digunakan untuk melakukan tugas-tugas sederhana dan tidak memerlukan kompilasi. Tugas yang lebih kompleks biasanya disebut sebagai program gateway. Secara umum, kedua jenis tersebut disebut sebagai program CGI.

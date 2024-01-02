@@ -1,0 +1,3 @@
+Sebuah atribut dianggap bersifat komposit jika terdiri dari dua atau lebih atribut lain.
+Pertimbangkan atribut seperti nama yang terdiri dari nama depan dan nama belakang. Sebagai contoh, misalkan nama seorang karyawan adalah John McKenzie.
+Nama depan adalah John dan nama belakang adalah McKenzie. Mudah untuk memahami bahwa satu aplikasi mungkin hanya ingin nama belakang, aplikasi lain mungkin menampilkan nama depan diikuti oleh nama belakang, dan aplikasi lainnya mungkin menampilkan nama belakang, koma, dan kemudian nama depan.

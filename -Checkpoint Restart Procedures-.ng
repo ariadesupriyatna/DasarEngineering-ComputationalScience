@@ -1,0 +1,2 @@
+Ini adalah prosedur pemulihan dari kegagalan sistem.
+Sebuah checkpoint adalah salinan memori komputer yang disimpan di disk dan dapat digunakan selama kegagalan, yaitu checkpoint terakhir berfungsi sebagai titik pemulihan.

@@ -1,0 +1,4 @@
+Dalam matematika dan komputasi, metode komplement adalah teknik yang digunakan untuk mengurangkan satu angka dari angka lain hanya dengan menggunakan penambahan angka positif.
+Metode ini umumnya digunakan dalam kalkulator mekanik dan masih digunakan dalam komputer modern. Komplemen sembilan dari suatu angka dibentuk dengan mengganti setiap digit dengan sembilan dikurangi digit tersebut.
+Untuk mengurangkan suatu angka desimal y (yang dikurangkan) dari angka lain x (yang dikurangkan), komplemen sembilan dari y ditambahkan ke x dan satu ditambahkan ke hasilnya. Digit terdepan '1' dari hasil kemudian dibuang.
+Membuang '1' awal ini sangat nyaman pada kalkulator atau komputer yang menggunakan jumlah digit yang tetap: tidak ada tempat untuknya sehingga ia hanya hilang selama perhitungan. Komplemen sembilan ditambah satu dikenal sebagai komplemen sepuluh.

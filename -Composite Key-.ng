@@ -1,0 +1,2 @@
+Kunci komposit, dalam konteks basis data relasional, adalah kombinasi dari dua atau lebih kolom dalam sebuah tabel yang dapat digunakan untuk mengidentifikasi secara unik setiap baris dalam tabel.
+Keunikannya hanya terjamin ketika kolom-kolom tersebut digabungkan; ketika diambil secara individu, kolom-kolom tersebut tidak menjamin keunikan.

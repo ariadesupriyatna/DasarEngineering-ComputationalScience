@@ -1,0 +1,2 @@
+Dalam metode panggilan dengan nilai, fungsi yang dipanggil membuat seperangkat variabel baru di tumpukan dan menyalin nilai dari argumen ke dalamnya.
+Definisi web: Strategi evaluasi di mana argumen untuk suatu fungsi dievaluasi terlebih dahulu, dan hasilnya diteruskan ke dalam fungsi.

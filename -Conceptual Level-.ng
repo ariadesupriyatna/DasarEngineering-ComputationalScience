@@ -1,0 +1,4 @@
+Tingkat tengah dalam arsitektur tiga tingkat adalah tingkat konseptual, yang juga disebut tingkat pandangan logis.
+Ini menggambarkan seluruh struktur database seperti entitas, atribut, jenis data, hubungan, kendala, dan operasi pengguna.
+Tingkat pandangan konseptual menyembunyikan detail struktur penyimpanan fisik. Tingkat pandangan konseptual mendukung tingkat pandangan eksternal untuk menyajikan data kepada pengguna akhir sesuai kebutuhan mereka.
+Pandangan ini relatif konstan, dan Database Administrator merancangnya setelah menentukan kebutuhan informasi saat ini dan masa depan organisasi. Namun, untuk memperluas pandangan konseptual, Database Administrator menambahkan objek baru untuk memenuhi persyaratan organisasi tanpa memengaruhi pandangan eksternal.

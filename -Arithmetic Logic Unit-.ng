@@ -1,0 +1,3 @@
+Singkatan dari Arithmetic Logic Unit, ALU adalah salah satu komponen dalam prosesor komputer.
+ALU melakukan operasi matematika, logika, dan keputusan dalam komputer dan merupakan pemrosesan terakhir yang dilakukan oleh prosesor.
+Setelah informasi diproses oleh ALU, itu dikirim ke memori komputer. Pada beberapa prosesor komputer, ALU dibagi menjadi AU dan LU. AU melakukan operasi aritmatika dan LU melakukan operasi logika.

@@ -1,0 +1,3 @@
+Dalam ilmu komputer, alur kontrol (atau secara alternatif, alur kendali) mengacu pada urutan di mana pernyataan, instruksi, atau panggilan fungsi individu dari program imperatif atau deklaratif dijalankan atau dievaluasi.
+Dalam bahasa pemrograman imperatif, pernyataan alur kontrol adalah pernyataan yang eksekusinya menghasilkan pilihan untuk mengikuti salah satu dari dua atau lebih jalur.
+Untuk bahasa fungsional yang non-strict, fungsi dan konstruksi bahasa ada untuk mencapai hasil yang sama, tetapi tidak selalu disebut pernyataan alur kontrol.

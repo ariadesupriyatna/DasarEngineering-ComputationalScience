@@ -1,0 +1,3 @@
+Produk Kartesius, juga disebut sebagai cross-join, mengembalikan semua baris dalam semua tabel yang terdaftar dalam kueri.
+Setiap baris dalam tabel pertama dipasangkan dengan semua baris dalam tabel kedua. Ini terjadi ketika tidak ada hubungan yang ditentukan antara kedua tabel tersebut. Baik tabel AUTHOR maupun STORE memiliki sepuluh baris.
+Jika kita menggunakan join Kartesius pada kedua tabel ini, kita akan mendapatkan kembali 100 baris.

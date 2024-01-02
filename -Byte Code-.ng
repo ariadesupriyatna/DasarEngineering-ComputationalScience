@@ -1,0 +1,3 @@
+Bytecode, juga dikenal sebagai p-code (kode portabel), adalah bentuk set instruksi yang dirancang untuk eksekusi efisien oleh interpreter perangkat lunak.
+Berbeda dengan kode sumber yang dapat dibaca manusia, bytecode adalah kode numerik ringkas, konstan, dan referensi (biasanya alamat numerik) yang mengkodekan hasil analisis sintaksis dan semantik seperti tipe, cakupan, dan kedalaman pengepakan objek program.
+Oleh karena itu, bytecode memungkinkan kinerja yang jauh lebih baik daripada interpretasi langsung dari kode sumber.

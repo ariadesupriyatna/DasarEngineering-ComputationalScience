@@ -1,0 +1,4 @@
+Domain atribut adalah aturan yang menjelaskan nilai-nilai legal dari suatu jenis bidang, menyediakan metode untuk menegakkan integritas data.
+Domain atribut digunakan untuk membatasi nilai yang diperbolehkan dalam suatu atribut tertentu untuk tabel atau kelas fitur. Jika fitur-fitur dalam kelas fitur atau objek nonspasial dalam tabel telah dikelompokkan ke dalam subtipe, domain atribut yang berbeda dapat ditetapkan untuk setiap subtipe.
+Sebuah domain adalah deklarasi dari nilai atribut yang dapat diterima. Setiap kali suatu domain terkait dengan suatu bidang atribut, hanya nilai-nilai dalam domain tersebut yang valid untuk bidang tersebut. Dengan kata lain, bidang tersebut tidak akan menerima nilai yang tidak berada dalam domain tersebut.
+Penggunaan domain membantu memastikan integritas data dengan membatasi pilihan nilai untuk suatu bidang tertentu.

@@ -1,0 +1,2 @@
+Digit pemeriksaan adalah bentuk pemeriksaan redundansi yang digunakan untuk deteksi kesalahan pada nomor identifikasi (misalnya, nomor rekening bank) yang telah dimasukkan secara manual. Ini analog dengan bit paritas biner yang digunakan untuk memeriksa kesalahan dalam data yang dihasilkan oleh komputer.
+Ini terdiri dari satu digit (kadang-kadang lebih dari satu) yang dihitung oleh algoritma dari digit (atau huruf) lain dalam urutan input.

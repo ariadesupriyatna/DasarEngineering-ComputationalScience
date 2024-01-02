@@ -1,0 +1,2 @@
+Bendera Penyesuaian (juga dikenal sebagai bendera carry tambahan) adalah bendera CPU dalam register FLAGS dari semua CPU yang kompatibel dengan x86. Ini terletak pada posisi bit 4.
+Ini menunjukkan ketika carry aritmatika atau pinjaman telah dihasilkan dari empat bit paling tidak signifikan, atau nibble yang lebih rendah. Ini utamanya digunakan untuk mendukung aritmatika kode biner desimal (BCD).

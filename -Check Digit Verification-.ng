@@ -1,0 +1,2 @@
+Nomor identifikasi ada di mana-mana saat ini: ID mahasiswa, nomor SIM, nomor kartu kredit, nomor rekening bank, Kode Produk Universal (UPC), dan Nomor Standar Buku Internasional (ISBN) hanyalah beberapa contohnya.
+Salah satu skema keamanan sederhana untuk memverifikasi keakuratan nomor identifikasi adalah dengan memiliki satu atau lebih digitnya dihitung dari digit yang tersisa.

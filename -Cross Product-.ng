@@ -1,0 +1,3 @@
+Cross Product biasanya merupakan operasi database pada dua tabel mirip dengan operasi Join, dengan perbedaan bahwa cross product akan menghasilkan semua kombinasi yang mungkin antara kedua tabel tersebut.
+Sistem Manajemen Basis Data seperti SQL Server dan Oracle menyediakan operasi cross product dengan mudah menggunakan kata kunci cross join. Namun, masalahnya muncul dalam aplikasi kehidupan nyata ketika kita ingin melakukan cross product dalam logika aplikasi.
+Misalnya, jika Anda memiliki dua larik angka dan ingin menemukan semua kombinasi yang mungkin antara kedua larik tersebut, kemudian memilih salah satu kombinasi yang memenuhi kebutuhan bisnis tertentu.
